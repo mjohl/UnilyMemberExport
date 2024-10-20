@@ -46,3 +46,25 @@ You need to update the configuration values in the appsettings.json file.
 
 Then you can run the project.
 If you want to change the GQL Query you can update the **Helpers\GqlQueries.cs** file, just remember to also update the UnilyUser model as well.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## Disclaimer
+The code provided in this project is **not developed, endorsed, or supported by Unily**. It is intended as an example of how to use Unily's APIs and GraphQL queries for content export, but **you are solely responsible for testing and validating its functionality** in your own environment.
+
+By using this code, you acknowledge and agree that:
+
+- **No warranty or liability** is provided. The project is offered "as-is," with no guarantees of accuracy, reliability, or performance.
+- **Unily is not liable** for any issues or damages that arise from the use of this code.
+- You are responsible for ensuring compliance with any relevant legal agreements or terms of service associated with Unily's APIs and any data processed through them.
+- This tool **should not be used in a production environment** without thorough testing and review, as it may not cover all use cases or error conditions.
+- **Modifications or extensions** to this code should be handled with caution and may require additional testing or adjustments based on specific requirements.
+- It is your responsibility to ensure **data privacy and security** when exporting or handling any content.
+
+Please note that this repository is **not actively monitored**, and no direct support is available. You are encouraged to fork the project and make any necessary adjustments for your own use.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
